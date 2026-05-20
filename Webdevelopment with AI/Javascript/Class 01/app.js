@@ -8,6 +8,17 @@ console.log("Hello World");
 
 // Data Types
 
+//variable names should start with a letter, underscore, or dollar sign
+//variable names cannot start with a number
+//variable names cannot contain spaces 
+
+//Variable illeagal names
+// var 1name = "Adil"; // illegal
+// var name@ = "Adil"; // illegal
+// var first name = "Adil"; // illegal
+
+
+
 // String
 var name = "Adil Ahmed";
 console.log(name);
