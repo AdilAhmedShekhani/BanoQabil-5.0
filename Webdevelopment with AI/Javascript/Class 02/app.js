@@ -9,3 +9,15 @@ else {
     console.log("You are a minor");
 }
 
+//loops
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+// loops while
+let j = 0;
+while (j < 5) {
+    console.log(j);
+    j++;
+}
+
