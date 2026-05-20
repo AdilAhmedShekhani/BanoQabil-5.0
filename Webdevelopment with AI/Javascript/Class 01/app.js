@@ -32,5 +32,9 @@ console.log(city);
 var userName = prompt("What is your name?");
 console.log("Hello " + userName);
 
-
+//concatenation
+var firstName = "Adil";
+var lastName = "Ahmed";
+var fullName = firstName + " " + lastName;
+console.log(fullName);
 
