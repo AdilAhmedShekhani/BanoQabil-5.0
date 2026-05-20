@@ -21,3 +21,8 @@ while (j < 5) {
     j++;
 }
 
+//functions
+function greet(name) {
+    console.log("Hello " + name);
+}  
+greet("Adil Ahmed");
