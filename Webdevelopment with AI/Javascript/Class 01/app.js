@@ -28,4 +28,9 @@ console.log(address);
 var city = null;
 console.log(city);
 
+// prompt
+var userName = prompt("What is your name?");
+console.log("Hello " + userName);
+
+
 
