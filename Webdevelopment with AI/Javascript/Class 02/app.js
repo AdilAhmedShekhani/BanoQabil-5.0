@@ -2,10 +2,10 @@ console.log("Hello World");
 
 //conditional statements
 let age = 20;
-if(age >= 18){
+if (age >= 18) {
     console.log("You are an adult");
 }
-else{
+else {
     console.log("You are a minor");
 }
 
