@@ -38,3 +38,7 @@ var lastName = "Ahmed";
 var fullName = firstName + " " + lastName;
 console.log(fullName);
 
+//Create a table of any number using prompt
+var number = prompt("Enter a number to see its multiplication table:");
+console.log("Multiplication Table of " + number);
+
