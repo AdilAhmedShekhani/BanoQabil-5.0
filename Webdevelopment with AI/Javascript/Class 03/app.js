@@ -22,3 +22,13 @@ console.log("Hello")
 
 // abc(); // Function Call
 
+// Create Object
+
+var obj = {
+    firstName: "Zaeem",
+    rollNo: 123,
+    isStudent: true
+}
+
+console.log(obj.firstName)
+
