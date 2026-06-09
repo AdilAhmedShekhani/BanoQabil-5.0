@@ -32,3 +32,21 @@ var obj = {
 
 console.log(obj.firstName)
 
+var students = [
+    {
+        firstName: "Zaeem",
+        rollNo: 123,
+        isStudent: true
+    },
+    {
+        firstName: "ikrash",
+        rollNo: 123,
+        isStudent: true
+    },
+    {
+        firstName: "Ashraf",
+        rollNo: 123,
+        isStudent: true
+    }
+
+]
